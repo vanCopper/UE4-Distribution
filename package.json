@@ -22,7 +22,6 @@
   "homepage": "https://github.com/vanCopper/UE4-Distribution#readme",
   "devDependencies": {},
   "dependencies": {
-    "electron": "^9.0.5",
-    "xel": "^0.0.220"
+    "electron": "^9.0.5"
   }
 }
