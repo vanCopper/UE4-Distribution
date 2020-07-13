@@ -15,6 +15,7 @@ function createWindow(): void {
         preload: path.join(__dirname, '../dist/preload.js'),
     },
     width: 600,
+    darkTheme:true,
   });
   // and load the index.html of the app.
   mainWindow.loadFile(path.join(__dirname, '../html/index.html'));
